@@ -25,10 +25,7 @@
     <hr>
     <br>
 
-    echo " test file "
-
-    print " New file "
-
+    
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
@@ -36,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning Have a good day! </h1>
 
   
 </form>
